@@ -22,7 +22,8 @@ Step-4 : Plot the Cost function using Gradient Descent and generate the required
 Program to implement the linear regression using gradient descent.
 Developed by: CHANDRAPRIYADHARSHINI C
 RegisterNumber: 212223240019
-
+```
+```
 import numpy as np
 import pandas as pd
 from sklearn.preprocessing import StandardScaler
@@ -39,19 +40,24 @@ def linear_regression(X1,y,learning_rate=0.,num_iters=1000):
     theta-=learning_rate*(1/len(X1))*X.T.dot(errors)
 
   return theta
+```
+```
 data=pd.read_csv("/content/50_Startups.csv")
 data.head()
-
+```
+```
 x=(data.iloc[:,:-2].values)
 x1=x.astype(float)
-
+```
+```
 scaler=StandardScaler()
 y=(data.iloc[1:,-1].values).reshape(-1,1)
 x1_scaled=scaler.fit_transform(x1)
 y1_scaled=scaler.fit_transform(y)
 print(x)
 print(x1_scaled)
-
+```
+```
 theta=linear_regression(x1_scaled,y1_scaled)
 new_data=np.array([165349.2,136897.8,471784.1]).reshape(-1,1)
 new_scaled=scaler.fit_transform(new_data)
@@ -63,11 +69,15 @@ print(f"Predicted valeue: {pre}")
 ```
 
 ## Output:
+![alt text](<Screenshot 2024-04-06 225125.png>)
 
-Predicted value
+![alt text](<Screenshot 2024-04-06 225429.png>)
 
-![image](https://github.com/Bosevennila/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/144870486/27eb69ab-ad61-4d78-aa9c-0d8b4c74947c)
+![alt text](<Screenshot 2024-04-06 225441.png>)
 
+![alt text](<Screenshot 2024-04-06 225510.png>)
+
+![image](https://github.com/Praveenanagaraji22/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119393514/24a49de2-07c5-4a3b-b1d7-21c83d451c18)
 
 ## Result:
 Thus the program to implement the linear regression using gradient descent is written and verified using python programming.
