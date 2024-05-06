@@ -19,9 +19,11 @@ Step-4 : Plot the Cost function using Gradient Descent and generate the required
 
 ## Program:
 ```
+/*
 Program to implement the linear regression using gradient descent.
 Developed by: CHANDRAPRIYADHARSHINI C
 RegisterNumber: 212223240019
+*/
 ```
 ```
 import numpy as np
