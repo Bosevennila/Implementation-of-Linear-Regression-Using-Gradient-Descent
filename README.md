@@ -8,6 +8,7 @@ To write a program to predict the profit of a city using the linear regression m
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm:
+
 Step-1 : Import the required library and read the dataframe.
 
 Step-2 : Write a function computeCost to generate the cost function.
@@ -76,5 +77,6 @@ print(f"Predicted valeue: {pre}")
 ![image](https://github.com/Bosevennila/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/144870486/e44b742a-dc35-4a16-8307-8fc10c6fa415)
 
 ![image](https://github.com/Bosevennila/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/144870486/7ffbdfcf-8439-4b1a-8011-a110e37ed1d4)
+
 ## Result:
 Thus the program to implement the linear regression using gradient descent is written and verified using python programming.
