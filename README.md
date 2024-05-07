@@ -71,11 +71,13 @@ print(f"Predicted valeue: {pre}")
 ```
 ## Output:
 
-![image](https://github.com/Bosevennila/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/144870486/4c873bd1-3136-401a-96e3-5fdbe084d75f)
+![image](https://github.com/Bosevennila/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/144870486/9e682005-5b76-47d5-b93e-277198087c17)
 
-![image](https://github.com/Bosevennila/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/144870486/8c7378ea-51d8-43d2-b222-e580788a0144)
-
-![image](https://github.com/Bosevennila/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/144870486/e44b742a-dc35-4a16-8307-8fc10c6fa415)
+![image](https://github.com/Bosevennila/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/144870486/c08e6827-9402-498b-b6e9-8f19bdb9c901)
+![image](https://github.com/Bosevennila/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/144870486/d4020174-8e39-45fb-9c71-167b36ff6419)
+![image](https://github.com/Bosevennila/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/144870486/f220d773-dd0a-4cfb-a3f0-572425e00d91)
+![image](https://github.com/Bosevennila/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/144870486/d6a2158d-49e7-4d7d-8926-6a0aebb25a06)
+![image](https://github.com/Bosevennila/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/144870486/2abfb130-d5d2-4c89-b28a-18b3dca4e358)
 
 ![image](https://github.com/Bosevennila/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/144870486/7ffbdfcf-8439-4b1a-8011-a110e37ed1d4)
 
